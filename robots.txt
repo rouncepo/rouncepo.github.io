@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rouncepo.github.io/sitemap
+Sitemap: https://rouncepo.github.io/app/sitemap
+Sitemap: https://rouncepo.github.io/assets/sitemap
+Sitemap: https://rouncepo.github.io/css/sitemap
+Sitemap: https://rouncepo.github.io/includes/sitemap
+Sitemap: https://rouncepo.github.io/item/sitemap
+Sitemap: https://rouncepo.github.io/src/sitemap
